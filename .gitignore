@@ -1,52 +1,19 @@
-# Python
+# python
 __pycache__/
-*.py[cod]
+*.pyc
 *.pyo
-*.pyd
-.Python
-*.egg
-*.egg-info/
-dist/
-build/
-eggs/
-parts/
-var/
-sdist/
-develop-eggs/
-.installed.cfg
-lib/
-lib64/
-
-# Virtual environments
-.venv/
-venv/
-ENV/
-env/
 .env
+venv/
+.venv/
 
-# Pipenv
-.venv
-
-# Database
+# db
 *.db
-*.sqlite
 *.sqlite3
-
-# Flask
 instance/
 
-# Migrations (keep track of these — comment out if you want to include them)
-# migrations/
-
-# IDE
+# ide
 .vscode/
 .idea/
-*.swp
-*.swo
 
-# OS
+# os
 .DS_Store
-Thumbs.db
-
-# Logs
-*.log
